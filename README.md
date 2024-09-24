@@ -61,10 +61,3 @@ Input Prompt: "Login screen with a username and password field."
 ```
 
 The app will generate test cases for testing the login feature, including expected results.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-
-This README provides clear instructions on how to set up and use the app. You can adjust the content depending on any specific details of your project.
