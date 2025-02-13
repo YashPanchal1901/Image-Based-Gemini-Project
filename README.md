@@ -2,6 +2,8 @@
 
 This Streamlit app integrates Google Gemini API to generate detailed test cases for app functionalities based on uploaded images (screenshots) and optional input text. The app is designed to help testers by generating step-by-step guides to test features of the app efficiently.
 
+live link : https://image-based-gemini-project-7snu2fycplba3sswfkrkgd.streamlit.app/
+
 ## Features
 - Upload an image (app screenshot in `.jpg`, `.jpeg`, or `.png` format).
 - Enter optional text as a prompt describing the app's functionality or feature.
