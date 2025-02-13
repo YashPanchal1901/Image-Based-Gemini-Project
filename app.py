@@ -2,7 +2,9 @@ import google.generativeai as genai
 from PIL import Image
 import streamlit as st
 
-google_api_key = 'Your API KEY'
+api_key = st.secrets['Ninja_API']
+
+google_api_key = api_key
 genai.configure(api_key=google_api_key)
 
 def get_gemini_response(image, prompt):
